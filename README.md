@@ -28,6 +28,11 @@ Test set : 1사람에 대한 description이 10문장으로 paraphrase 되어있�
 - sequential_tuning_lora.py
 
     lora training
+
+- sequential_tuning2.py
+
+    evaluation accuracy 대신 **target text에대한 loss**를 확인하는 version
+
 ------------
 - task_vectors.py
 
