@@ -1,0 +1,5 @@
+outputs/
+output/
+model_after_dataset_1/
+.ipynb_checkpoints/
+__pycache__/
