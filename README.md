@@ -31,7 +31,7 @@ Test set : 1사람에 대한 description이 10문장으로 paraphrase 되어있�
 
 - sequential_tuning2.py
 
-    evaluation accuracy 대신 **target text에대한 loss**를 확인하는 version
+    evaluation accuracy 대신 **target text에대한 loss**를 확인하는 version / 한명을 학습할 때마다 모델 weight 저장
 
 ------------
 - task_vectors.py
