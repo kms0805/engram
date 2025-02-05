@@ -31,7 +31,7 @@ Test set : 1사람에 대한 description이 10문장으로 paraphrase 되어있�
 ------------
 - task_vectors.py
 
-    model weight arithmetic 을 위해 task vectors repo(https://github.com/mlfoundations/task_vectors)의 코드를 변형해서 사용
+    model weight arithmetic 을 위해 [task vectors repo](https://github.com/mlfoundations/task_vectors)의 코드를 변형해서 사용
  
 ### run
 
